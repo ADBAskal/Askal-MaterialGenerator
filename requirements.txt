@@ -1,0 +1,24 @@
+# GUI Framework
+customtkinter>=5.2.0
+tkinterdnd2>=0.3.0
+
+# Image Processing
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Testing Framework
+pytest>=7.4.0
+hypothesis>=6.82.0
+
+# Configuration and Data
+pydantic>=2.0.0
+
+# Windows Clipboard Integration (for PAA conversion)
+pywin32>=306; sys_platform == "win32"
+
+# Build and Distribution
+pyinstaller>=5.13.0
+
+# Development Tools
+black>=23.0.0
+flake8>=6.0.0
