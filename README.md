@@ -25,7 +25,7 @@ Junte-se à nossa comunidade no Discord para suporte, discussões e atualizaçõ
 ## 🚀 Instalação
 
 ### Opção 1: Executável (Recomendado)
-1. Baixe o executável da seção [Releases](../../releases)
+1. Baixe o executável [Askal MatGen.exe](https://github.com/ADBAskal/Askal-MaterialGenerator/raw/refs/heads/main/Executable/Askal%20MatGen.exe)
 2. Execute `ASKAL_TOOLS_Gerador_Material.exe`
 3. Pronto para usar!
 
